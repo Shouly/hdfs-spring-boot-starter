@@ -1,7 +1,7 @@
 package me.shouly.hdfs.api;
 
 import lombok.extern.slf4j.Slf4j;
-import me.shouly.hdfs.bean.HdfsProperties;
+import me.shouly.hdfs.conf.HdfsProperties;
 import org.apache.hadoop.conf.Configuration;
 import org.apache.hadoop.fs.FileSystem;
 import org.apache.hadoop.fs.Path;

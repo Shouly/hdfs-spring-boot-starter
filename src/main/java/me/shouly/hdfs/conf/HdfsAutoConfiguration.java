@@ -1,7 +1,6 @@
 package me.shouly.hdfs.conf;
 
 import me.shouly.hdfs.api.HdfsOperationApi;
-import me.shouly.hdfs.bean.HdfsProperties;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.autoconfigure.condition.ConditionalOnClass;
 import org.springframework.boot.autoconfigure.condition.ConditionalOnMissingBean;

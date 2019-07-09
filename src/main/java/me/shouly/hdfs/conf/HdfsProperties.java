@@ -1,4 +1,4 @@
-package me.shouly.hdfs.bean;
+package me.shouly.hdfs.conf;
 
 import org.springframework.boot.context.properties.ConfigurationProperties;
 
